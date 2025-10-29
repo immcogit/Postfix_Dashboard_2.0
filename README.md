@@ -692,7 +692,6 @@ For issues and questions:
 - [ ] Advanced search with regex
 - [ ] Custom dashboards
 - [ ] Real-time log streaming (WebSocket)
-- [ ] Mobile app
 - [ ] LDAP/Active Directory authentication
 - [ ] Multi-language support
 - [ ] Dark/Light theme toggle
