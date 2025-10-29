@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#3B82F6"/>
+  
+  <!-- Mail envelope icon -->
+  <g transform="translate(128, 128)">
+    <!-- Envelope base -->
+    <rect x="0" y="64" width="256" height="192" rx="16" fill="#FFFFFF"/>
+    
+    <!-- Envelope flap -->
+    <path d="M 0 80 L 128 176 L 256 80 L 256 64 Q 256 48 240 48 L 16 48 Q 0 48 0 64 Z" fill="#E5E7EB"/>
+    
+    <!-- Envelope lines -->
+    <path d="M 0 80 L 128 176 L 256 80" stroke="#3B82F6" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+</svg>
